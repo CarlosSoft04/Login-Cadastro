@@ -1,5 +1,5 @@
-Olá!Seja bem vindo por aqui,meu nome é Carlos Rios e compartilho com vocês um projeto bem simples com o intuito apenas de testar conexões com o banco de dados.
-O projeto possui no login autenticação de usuário e na parte de cadastro, botôes de alterar,excluir,cadastrar,carregar e limpar funcionários/usuários.
+Projeto/teste de conexões com o banco de dados.
+O projeto possui login com autenticação de usuário e no cadastro botões de: alterar,excluir,cadastrar,carregar e limpar funcionários.
 
 Qualquer dúvida ou proposta contate-me.
 
